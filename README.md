@@ -1,8 +1,9 @@
 # gitCommands
 ## Creating a Repositiry and Commit from Local
+
 step 1: Create github account <br>
 step 2: Log into your account and create new repo name gitCommands <br>
-step 3: Create a folder gitCommands in your desktop. In the folder open git bash and enter <b style='color: green'> git init </b> command <br>
+step 3: Create a folder gitCommands in your desktop. In the folder open git bash and enter git init command <br>
 step 4: Create a python file helloworld.py <br>
     <ul>
         <li> git status command gives you status of your repository</li>
