@@ -13,6 +13,9 @@ step 4: Create a python file helloworld.py <br>
     </ul>
 #### Check your https://github.com/YourGitID/gitCommandTutorials you will firn the updated one 
 ## Cloning and working from different places
+<ol>
+    <li>git clone https://github.com/YourGitID/gitCommandsTutorials : A folder named gitCommandsTutorials created in your current directory</li>
+</ol>
 
         
         
